@@ -1,0 +1,8 @@
+Adrese je: www.google.com
+IP je: 192.168.10.0:9998
+Adrese je: www.seznam.cz
+IP je: 198.55.21.45
+Adrese je: www.wiki.eu
+IP je: 172.155.2.0
+Adrese je: www.netflix/browse.us
+IP je: 111.258.99.55

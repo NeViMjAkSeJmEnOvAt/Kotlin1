@@ -1,0 +1,4 @@
+www.google.com 192.168.10.0:9998
+www.seznam.cz 198.55.21.45
+www.wiki.eu 172.155.2.0
+www.netflix/browse.us 111.258.99.55
